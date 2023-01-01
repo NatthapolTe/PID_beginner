@@ -1,4 +1,2 @@
-print("test")
-print("agai")
-
-print("aa")
+import matplotlib.pyplot as plt
+import numpy as np
