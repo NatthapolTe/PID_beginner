@@ -1,4 +1,5 @@
-print("test")
-print("agai")
+import matplotlib.pyplot as plt
+import numpy as np
 
-print("aa")
+x[0]
+
